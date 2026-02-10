@@ -1,0 +1,14 @@
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/bin/Debug/net10.0/HW2_TaxPayable
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/bin/Debug/net10.0/HW2_TaxPayable.deps.json
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/bin/Debug/net10.0/HW2_TaxPayable.runtimeconfig.json
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/bin/Debug/net10.0/HW2_TaxPayable.dll
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/bin/Debug/net10.0/HW2_TaxPayable.pdb
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.AssemblyInfoInputs.cache
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.AssemblyInfo.cs
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.csproj.CoreCompileInputs.cache
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.dll
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/refint/HW2_TaxPayable.dll
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.pdb
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/HW2_TaxPayable.genruntimeconfig.cache
+/Users/belalabdelkarim/Downloads/HW2_TaxPayable/obj/Debug/net10.0/ref/HW2_TaxPayable.dll
